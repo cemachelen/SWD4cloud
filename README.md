@@ -1,4 +1,4 @@
-# SWD4L: Cloud Computing
+# SWD4: Cloud Computing
 
 Notes on ARC training SWD4 cloud computing
 
