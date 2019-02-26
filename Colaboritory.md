@@ -24,4 +24,14 @@ Allows to swap between Python 2 and 3 and hardware accelerator GPU/ TPU
 This is an example of free machine learning aplications
 * Example of running a classifier spotting faces in images 
 * Example uses built in classifier and small amount of training
-* 
+
+## 3. Benchmarking 
+
+* Benchmaking tools `spacey`
+* Run Notebook 4 on Azure and Google Co Lab
+  * Azure took aaaaages to pip install!
+  
+## 4. Twitter API 
+
+* Used martins key can not upload on github
+* Example brexit tweets in a minute - can extract common words and combos
