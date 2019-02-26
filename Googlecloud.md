@@ -13,6 +13,12 @@ Simple steps:
 * has automatic features stopping downtime
 * pre-emptibility: 70% cheaper: can set up to restat and pick up where left off 
    * $20.36  vs $64.95
+* by default can not ssh in, requires keys
+* can use gcloud but not uni systems
+*
+
+
+
 # Cloud Shell
 
 Allows VM scripts
