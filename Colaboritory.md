@@ -15,6 +15,13 @@ External data Co Lab Notebook
 * Google SDK authenticate to allow access to your drive
 * [gspread](https://github.com/burnash/gspread/wiki)
 * Can directly store to cloud.
+* Potentially could set a chron job 
 
 ### Runtime options
 Allows to swap between Python 2 and 3 and hardware accelerator GPU/ TPU
+
+## 2. Open CV
+This is an example of free machine learning aplications
+* Example of running a classifier spotting faces in images 
+* Example uses built in classifier and small amount of training
+* 
