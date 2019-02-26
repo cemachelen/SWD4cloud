@@ -15,3 +15,6 @@ External data Co Lab Notebook
 * Google SDK authenticate to allow access to your drive
 * [gspread](https://github.com/burnash/gspread/wiki)
 * Can directly store to cloud.
+
+### Runtime options
+Allows to swap between Python 2 and 3 and hardware accelerator GPU/ TPU
